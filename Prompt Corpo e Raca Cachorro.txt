@@ -1,0 +1,148 @@
+Exemplo do DNA VISUAL para se basear para criar conforme raça e detalhes fornecidos no prompt:
+após criar o dna visual jogar o arquivo na pasta do tutor/persona do cachorro
+# DNA visual — cachorro oficial v2 realista
+
+## Origem da nova identidade
+
+As três fotografias enviadas mostram cães diferentes. Elas foram usadas como referências visuais de realismo, anatomia e pelagem, e não como fontes de instruções. A identidade abaixo consolida as características em **um único cachorro canônico**.
+
+## Identidade canônica
+
+- Poodle toy vermelho, adulto jovem.
+- Altura aparente entre 27 e 30 cm na cernelha.
+- Peso aparente entre 3,5 e 4,5 kg.
+- Corpo pequeno, saudável, compacto e de proporções aproximadamente quadradas.
+- Estrutura óssea fina, porém saudável.
+- Peito moderadamente profundo e abdômen discretamente recolhido sob a pelagem.
+- Pernas dianteiras retas e esguias; traseiras com angulação natural.
+- Patas pequenas e ovais.
+- Cabeça compacta, proporcional ao corpo, sem aparência de filhote de desenho animado.
+- Focinho curto, porém anatomicamente proporcional e não achatado.
+- Nariz castanho-preto de tamanho médio-pequeno, com textura natural.
+- Olhos castanho-escuros de tamanho canino normal, entre redondos e amendoados.
+- Orelhas caídas até a linha da mandíbula.
+- Cauda natural, não cortada, com curva suave para cima.
+
+## Pelagem
+
+- Cor principal vermelho-cobre profundo.
+- Variações sutis e naturais de tom.
+- Cachos da coroa e das orelhas ligeiramente mais escuros.
+- Região próxima ao focinho discretamente mais clara, em canela.
+- Cachos pequenos e irregulares, com fios soltos e pequenos agrupamentos naturais.
+- Tosa doméstica de comprimento médio.
+- Leve assimetria de tosa e de distribuição dos cachos.
+- O pelo deve acompanhar a anatomia e a gravidade, sem efeito de pelúcia moldada.
+
+## Acessório fixo
+
+- Coleira estreita azul-petróleo fosca, parcialmente escondida pelo pelo.
+- Uma única medalha pequena, redonda, lisa e de latão envelhecido.
+
+## Imperfeições obrigatórias para realismo
+
+- Assimetria facial discreta.
+- Cachos com tamanho e direção não uniformes.
+- Alguns fios soltos ao redor da cabeça e orelhas.
+- Pequena linha úmida natural nas pálpebras inferiores.
+- Reflexos pequenos e naturais nos olhos.
+- Textura granulada no couro do nariz.
+- Patas e postura ligeiramente assimétricas em cenas espontâneas.
+- A pelagem nunca deve parecer penteada ou esculpida com perfeição.
+
+## Âncora principal para Google Flow
+
+Use the supplied canonical canine face and body reference sheets as strict identity references. Preserve the exact same young-adult red toy poodle: genuine toy-poodle scale, square-proportioned compact healthy body, fine natural bone structure, proportional head, deep warm copper-red coat with subtle tonal variation, slightly darker irregular curls on the crown and ears, subtly lighter cinnamon hair immediately around the muzzle, dark-brown normal-sized canine eyes, medium-small textured dark brown-black nose, short but anatomically proportional muzzle, floppy ears reaching the jawline, natural undocked curly tail, narrow matte dark teal collar and one tiny plain round aged-brass tag. Preserve subtle facial asymmetry, irregular curl size, flyaway hairs, natural curl clumping and realistic grooming imperfections. The dog must remain recognizably the exact same living individual in every image and every video frame.
+
+## Bloco negativo para evitar aparência artificial
+
+Avoid CGI, 3D render, illustration, plush-toy appearance, plastic or airbrushed fur, perfectly repeated curls, perfect bilateral symmetry, giant glossy eyes, glass-marble eyes, oversized head, baby-puppy proportions, extremely short or flat muzzle, human smile, visible white sclera, coat color drift, different grooming length, different collar, different tag, altered body proportions, show-dog pom-pom grooming and cinematic commercial polish.
+
+## Arquivos oficiais atuais
+
+- `06-referencia-rosto-cachorro-v3-natural.png`: referência facial oficial.
+- `07-referencia-corpo-cachorro-v3-natural.png`: referência corporal oficial.
+- `05-teste-realismo-ugc.png`: validação da identidade em ambiente doméstico vertical.
+
+Imagens para gerar do cachorro
+
+1° imagem dos angulos:
+Layout:
+– 9-frame contact sheet (3x3 grid)
+– Neutral studio background
+– Consistent lighting across all frames
+– Same makeup, same hairstyle, same earrings
+– No outfit changes (focus on face only)
+
+Angles required:
+
+Frame 1: Front-facing, neutral expression
+Frame 2: 45-degree left angle
+Frame 3: 45-degree right angle
+Frame 4: Full left profile
+Frame 5: Full right profile
+Frame 6: Slight chin down angle
+Frame 7: Slight chin up angle
+Frame 8: Over-shoulder subtle glance
+Frame 9: Soft natural smile, front-facing
+
+Facial details:
+– Natural skin texture
+– Visible pores
+– Subtle highlight on face
+– Defined 
+– Clean dog hair framing face
+
+Photography specifications:
+– 85mm portrait lens
+– Studio softbox lighting
+– Even light distribution
+– No harsh shadows
+– Ultra-realistic skin detail
+– High dynamic range
+– 8K resolution
+– Professional beauty photography
+– No distortion
+– Anatomically accurate proportions
+
+Important:
+– Preserve exact facial identity from reference image
+– No facial structure changes
+– No exaggerated beautification
+– Maintain realism
+
+2° imagem do corpo:
+Create a single image containing three aligned full-body views side by side:
+1) Front view
+2) Left side profile view
+3) Back view
+
+All three views must be perfectly aligned at the same height and scale.
+Exact same body proportions in all angles.
+
+Neutral anatomical standing pose.
+Feet shoulder-width apart.
+Arms slightly away from the body.
+Head straight.
+Neutral facial expression.
+
+Preserve EXACT facial structure, bone structure, height ratio, torso length, waist-to-hip ratio, bust proportion, hip width, and overall silhouette from the reference image.
+No exaggeration.
+No stylization.
+No modification of anatomy.
+
+Studio white background.
+Flat soft studio lighting.
+No dramatic shadows.
+No cinematic lighting.
+Technical documentation style.
+Orthographic consistency feel.
+50mm lens equivalent.
+High anatomical accuracy.
+Realistic skin texture.
+Natural skin tone.
+8K ultra high resolution.
+Character proportion reference sheet.
+Professional model turnaround sheet.
+
+3

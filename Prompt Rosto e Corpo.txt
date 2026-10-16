@@ -1,0 +1,123 @@
+1° Etapa geração do rosto da persona:
+
+Prompt Geração do Avatar
+
+P1: Analise a imagem de referência enviada e extraia com precisão:
+- O ambiente/cenário (fundo, móveis, objetos, iluminação)
+- A pose corporal (posição das mãos, corpo, cabeça)
+- A roupa e acessórios (cor, estilo, detalhes)
+- O enquadramento (close, corpo inteiro, ângulo)
+- O estilo de iluminação (caseiro, cinematográfico, ao ar livre, etc.)
+
+
+P2: Agora você vai criar  um influencer com as mesmas características, mas com uma fisionomia diferente e única.
+
+Remova todas as legendas, textos e elementos de UI (TikTok, Instagram, etc.) que aparecerem na imagem.
+
+Use o modelo nano-banana-pro em qualidade high para máximo realismo humano — poros de pele, textura natural, imperfeições, sem efeito plástico ou de estúdio.
+
+-----------------------------------------------------------------------------
+
+2° Etapa Geração das imagens de referencia
+Imagem Base Rosto:
+
+Ultra-realistic facial reference contact sheet of a young Brazilian female influencer, using the provided reference image strictly for facial identity preservation.
+
+Layout:
+– 9-frame contact sheet (3x3 grid)
+– Neutral studio background
+– Consistent lighting across all frames
+– Same makeup, same hairstyle, same earrings
+– No outfit changes (focus on face only)
+
+Angles required:
+
+Frame 1: Front-facing, neutral expression
+Frame 2: 45-degree left angle
+Frame 3: 45-degree right angle
+Frame 4: Full left profile
+Frame 5: Full right profile
+Frame 6: Slight chin down angle
+Frame 7: Slight chin up angle
+Frame 8: Over-shoulder subtle glance
+Frame 9: Soft natural smile, front-facing
+
+Facial details:
+– Natural skin texture
+– Visible pores
+– Subtle highlight on cheekbones
+– Balanced influencer makeup (soft glam)
+– Defined brows
+– Neutral lip tone
+– Clean hair framing face
+
+Photography specifications:
+– 85mm portrait lens
+– Studio softbox lighting
+– Even light distribution
+– No harsh shadows
+– Ultra-realistic skin detail
+– High dynamic range
+– 8K resolution
+– Professional beauty photography
+– No distortion
+– Anatomically accurate proportions
+
+Important:
+– Preserve exact facial identity from reference image
+– No facial structure changes
+– No exaggerated beautification
+– Maintain realism
+
+
+
+
+Parte 2:
+Imagem Base Corpo:
+
+Ultra-realistic full body character model sheet of the SAME female influencer from the reference image.
+
+Create a single image containing three aligned full-body views side by side:
+1) Front view
+2) Left side profile view
+3) Back view
+
+All three views must be perfectly aligned at the same height and scale.
+Exact same body proportions in all angles.
+
+Neutral anatomical standing pose.
+Feet shoulder-width apart.
+Arms slightly away from the body.
+Hands relaxed.
+Head straight.
+Neutral facial expression.
+
+Preserve EXACT facial structure, bone structure, height ratio, torso length, waist-to-hip ratio, bust proportion, hip width, thigh thickness, arm length and overall silhouette from the reference image.
+No exaggeration.
+No stylization.
+No modification of anatomy.
+
+Clothing:
+Simple fitted neutral beige short-sleeve top.
+High-waisted black fitted shorts.
+No transparency.
+No cleavage.
+No sensual pose.
+
+Barefoot.
+Full body visible from head to toes.
+Small margin above head and below feet.
+
+Studio white background.
+Flat soft studio lighting.
+No dramatic shadows.
+No cinematic lighting.
+Technical documentation style.
+Orthographic consistency feel.
+50mm lens equivalent.
+High anatomical accuracy.
+Realistic skin texture.
+Natural skin tone.
+8K ultra high resolution.
+Character proportion reference sheet.
+Professional model turnaround sheet.
